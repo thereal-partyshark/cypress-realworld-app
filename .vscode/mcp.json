@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"momentic-mcp": {
+			"url": "http://localhost:58888/api/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
